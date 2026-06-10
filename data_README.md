@@ -9,7 +9,7 @@ This folder contains the datasets used in the **DataSpark: Illuminating Insights
 
 ## 📥 Download Dataset
 
-🔗 **[Click here to download the datasets]([https://your-drive-link-here](https://drive.google.com/drive/folders/1Ag9pAbXmPtBVz6pDHa_yGI_wzK61TTao))**
+🔗 ([https://your-drive-link-here](https://drive.google.com/drive/folders/1Ag9pAbXmPtBVz6pDHa_yGI_wzK61TTao)
 
 ## 📋 Dataset Files
 
