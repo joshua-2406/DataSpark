@@ -1,0 +1,65 @@
+# DataSpark: Illuminating Insights for Global Electronics
+# .gitignore
+ 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+ 
+# Virtual Environment
+venv/
+env/
+.env
+.venv
+ENV/
+ 
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+ 
+# Data Files (large raw CSVs — share via Google Drive link instead)
+data/*.csv
+data/*.xlsx
+data/*.xls
+*.csv
+*.xls
+ 
+# Database
+*.sql.bak
+*.db
+*.sqlite
+*.sqlite3
+ 
+# Power BI Cache
+*.pbix.bak
+ 
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+ 
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+ 
+# Logs & Temp
+*.log
+*.tmp
+*.temp
+*.bak
+~$*
+ 
+# Environment Variables (never commit credentials!)
+.env
+config.py
+db_config.py
+secrets.py
