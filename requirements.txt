@@ -1,0 +1,33 @@
+# DataSpark: Illuminating Insights for Global Electronics
+# Python Dependencies
+
+ 
+# Core Data Manipulation
+pandas==2.1.0
+numpy==1.25.2
+ 
+# Database Connectivity
+sqlalchemy==2.0.20
+mysql-connector-python==8.1.0
+pymysql==1.1.0
+ 
+# Data Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.16.1
+ 
+# Jupyter Notebook
+jupyter==1.0.0
+ipykernel==6.25.1
+notebook==7.0.2
+ 
+# Excel / File Handling
+openpyxl==3.1.2
+xlrd==2.0.1
+ 
+# Date & Utility
+python-dateutil==2.8.2
+pytz==2023.3
+ 
+# Progress Bar (optional but useful for large datasets)
+tqdm==4.66.1
